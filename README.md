@@ -5,4 +5,4 @@ Adcliq360 is a Comprehensive Digital Agency And A Part Of Savshka Digital Media 
 
 Adcliq360 Specialized In Providing 360-Degree Digital Services To Help Businesses Thrive In The Online Landscape.<br><br>
 Their Expertise Extends Across Various Facets Of Digital Marketing, Including Organic Marketing, Performance-Based Campaigns, And Programmatic Advertising. <br><br>
-https://ranvijay-kumar4.github.io/Project_SkillMonde/
+https://ranvijay-kumar4.github.io/Project_Adcliq360/
