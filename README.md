@@ -52,8 +52,9 @@ It is also part of my personal portfolio as a real-world client project, showcas
 
 ## 🖼️ Website Screenshot
 
-> 📸 Replace `assets/screenshot.png` with your actual image path in the repo
+![Adcliq360 Website Screenshot]
+<img width="1916" height="841" alt="image" src="https://github.com/user-attachments/assets/0cade000-963e-487f-9ae8-7e0399d5cccb" />
+<img width="1917" height="831" alt="image" src="https://github.com/user-attachments/assets/4426a4d4-3e8f-469b-b117-500af6b72761" />
 
-![Adcliq360 Website Screenshot](./assets/screenshot.png)
 
 ---
